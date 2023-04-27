@@ -1,0 +1,8 @@
+title: My new site 
+email: nparashkevov02@gmail.com 
+description: This is my new site
+baseurl: "" 
+url: "" 
+github_username:  Nieky31
+plugins:
+  - jekyll-feed
